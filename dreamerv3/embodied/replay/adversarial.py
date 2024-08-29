@@ -1,10 +1,12 @@
 import numpy as np
 
-from dreamerv3.embodied.replay import CuriousReplay
+# from dreamerv3.embodied.replay import CuriousReplay   #modified by yu
 
-
-class AdversarialReplay(CuriousReplay):
+ #modified by yu
+# class AdversarialReplay(CuriousReplay):
+class AdversarialReplay:
     def __init__(self, *args, **kwargs):
+        from dreamerv3.embodied.replay import CuriousReplay    #modified by yu
         super().__init__(*args, **kwargs)
         self.should_track_visit_counts = False
 

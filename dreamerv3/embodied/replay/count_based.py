@@ -1,10 +1,12 @@
 import numpy as np
+ #modified by yu
+# from dreamerv3.embodied.replay import CuriousReplay
 
-from dreamerv3.embodied.replay import CuriousReplay
 
+class CountBasedReplay:
 
-class CountBasedReplay(CuriousReplay):
     def __init__(self, *args, **kwargs):
+        from dreamerv3.embodied.replay import CuriousReplay   #modified by yu
         super().__init__(*args, **kwargs)
         self.should_track_visit_counts = True
 

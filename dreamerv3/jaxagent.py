@@ -1,6 +1,6 @@
 import os
 
-import embodied
+# import embodied   #modified by Yu:
 import jax
 import jax.numpy as jnp
 import numpy as np
@@ -21,9 +21,11 @@ def Wrapper(agent_cls):
 
     return Agent
 
-
-class JAXAgent(embodied.Agent):
+#modified by Yu:
+# class JAXAgent(embodied.Agent):
+class JAXAgent:
     def __init__(self, agent_cls, obs_space, act_space, step, config):
+        import embodied   #modified by Yu:
         self.config = config.jax
         self.batch_size = config.batch_size
         self.batch_length = config.batch_length

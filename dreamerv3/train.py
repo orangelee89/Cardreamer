@@ -22,7 +22,7 @@ def wrap_env(env, config):
             env = embodied.wrappers.DiscretizeAction(env, name, args.discretize)
         else:
             env = embodied.wrappers.NormalizeAction(env, name)
-    env = embodied.wrappers.ExpandScalars(env)
+    env = embodied.wrappers.ExpandScalars(env) 
     if args.length:
         env = embodied.wrappers.TimeLimit(env, args.length, args.reset)
     if args.checks:
