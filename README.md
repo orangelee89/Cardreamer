@@ -282,82 +282,10 @@ Special thanks to the community for your valuable contributions and support in m
 	<tbody>
 		<tr>
             <td align="center">
-                <a href="https://github.com/HanchuZhou">
-                    <img src="https://avatars.githubusercontent.com/u/99316745?v=4" width="100;" alt="HanchuZhou"/>
+                <a href="https://github.com/orangelee89">
+                    <img src="https://avatars.githubusercontent.com/u/95831799?v=4" width="100;" alt="orangelee89"/>
                     <br />
-                    <sub><b>Hanchu Zhou</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/tonycaisy">
-                    <img src="https://avatars.githubusercontent.com/u/92793139?v=4" width="100;" alt="tonycaisy"/>
-                    <br />
-                    <sub><b>Shuangyu Cai</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/gaodechen">
-                    <img src="https://avatars.githubusercontent.com/u/2103562?v=4" width="100;" alt="gaodechen"/>
-                    <br />
-                    <sub><b>GaoDechen</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/junshanzhangJZ2080">
-                    <img src="https://avatars.githubusercontent.com/u/111560343?v=4" width="100;" alt="junshanzhangJZ2080"/>
-                    <br />
-                    <sub><b>junshanzhangJZ2080</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/HeyGF">
-                    <img src="https://avatars.githubusercontent.com/u/23623353?v=4" width="100;" alt="HeyGF"/>
-                    <br />
-                    <sub><b>Gaofeng Dong</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/ustcmike">
-                    <img src="https://avatars.githubusercontent.com/u/32145615?v=4" width="100;" alt="ustcmike"/>
-                    <br />
-                    <sub><b>ucdmike</b></sub>
-                </a>
-            </td>
-		</tr>
-		<tr>
-            <td align="center">
-                <a href="https://github.com/andrewcwlee">
-                    <img src="https://avatars.githubusercontent.com/u/31760595?v=4" width="100;" alt="andrewcwlee"/>
-                    <br />
-                    <sub><b>Andrew Lee</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/IanGuangleiZhu">
-                    <img src="https://avatars.githubusercontent.com/u/91163000?v=4" width="100;" alt="IanGuangleiZhu"/>
-                    <br />
-                    <sub><b>IanGuangleiZhu</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/liamjxu">
-                    <img src="https://avatars.githubusercontent.com/u/48697394?v=4" width="100;" alt="liamjxu"/>
-                    <br />
-                    <sub><b>liamjxu</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/TracyYXChen">
-                    <img src="https://avatars.githubusercontent.com/u/31624007?v=4" width="100;" alt="TracyYXChen"/>
-                    <br />
-                    <sub><b>TracyYXChen</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/swsamleo">
-                    <img src="https://avatars.githubusercontent.com/u/12550596?v=4" width="100;" alt="swsamleo"/>
-                    <br />
-                    <sub><b>Wei Shao</b></sub>
+                    <sub><b>orangelee89</b></sub>
                 </a>
             </td>
 		</tr>
